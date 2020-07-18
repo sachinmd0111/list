@@ -1,0 +1,10 @@
+a=list()
+num=input("Enter the numbers ")
+b=num.split(',')
+for i in b :
+    if i>'0':
+     #b.append(i)
+     print(i)
+    else:
+        pass
+       
